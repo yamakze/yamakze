@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Tokens Stats](https://tokens.ci/api/embed/yamakze/svg?theme=light&sort=cost&compact=1&today=1&rank=percent&tokens=compact&cost=full)](https://tokens.ci/u/yamakze)
+
 <!--
 **yamakze/yamakze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
